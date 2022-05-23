@@ -1,0 +1,75 @@
+.button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #f5f4fa;
+}
+.button:hover {
+  background-color: #2196f3;
+}
+.footer {
+  background-color: #2f303a;
+  font-style: normal;
+  text-decoration: none;
+  color: white;
+}
+.footer-mail {
+  color: white;
+}
+.footer-phone {
+  color: white;
+  text-decoration: none;
+}
+.address {
+  font-style: normal;
+  text-decoration: none;
+  color: white;
+}
+.background {
+  background-color: white;
+}
+.link1 {
+  font-weight: 500;
+  text-decoration: none;
+  color: #212121;
+}
+.link1:hover {
+  color: #2196f3;
+}
+.link2 {
+  text-decoration: none;
+  color: #757575;
+}
+ul {
+  list-style-type: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  color: #2196f3;
+}
+.logo > span {
+  color: #212121;
+}
+.figure-title {
+  font-weight: 700;
+}
+.bg {
+  display: block;
+  height: 600px;
+  background-color: #2f303a;
+}
+.h1 {
+  display: block;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+  color: white;
+}
