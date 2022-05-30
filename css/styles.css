@@ -1,6 +1,5 @@
 body {
-  width: 1600px;
-  font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
   color: #212121;
 }
 * {
@@ -9,6 +8,12 @@ body {
 ul {
   padding: 0px;
 }
+.container {
+  width: 1600px;
+}
+/* .section {
+  padding: 94px 0 94px 0;
+} */
 .header {
   border-bottom: 1px solid #ececec;
   background-color: #fff;
