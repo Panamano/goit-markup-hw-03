@@ -229,13 +229,12 @@ ul {
   height: 600px;
   max-width: 1600px;
   margin: 0 auto;
-  
 }
 .team-bg {
   background-color: #f5f4fa;
   max-width: 1600px;
   margin: 0 auto;
-  }
+}
 .team-header {
   text-align: center;
 }
