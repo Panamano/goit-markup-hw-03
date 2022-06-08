@@ -136,16 +136,8 @@ header {
   height: 600px;
   max-width: 1600px;
   margin: 0 auto;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-image: radial-gradient(
-      circle,
-      rgba(63, 94, 251, 1) 0%,
-      rgba(47, 48, 58, 0.4) 0%
-    ),
-    url("../images/main-bg-photo.jpg");
-  background-size: cover;
+  background-color: var(--dark-gray);
+  
 }
 .guzik {
   display: flex;
