@@ -112,6 +112,9 @@ header {
 .link1:hover {
   color: var(--blue);
 }
+.link1:focus {
+  color: var(--blue);
+}
 .link2 {
   display: flex;
   align-items: flex-start;
@@ -124,6 +127,12 @@ header {
   padding-left: 10px;
   text-decoration: none;
   color: var(--light-gray);
+}
+.link2:hover {
+  color: var(--blue);
+}
+.link2:focus {
+  color: var(--blue);
 }
 .header-contacts-div > a:hover {
   color: var(--blue);
