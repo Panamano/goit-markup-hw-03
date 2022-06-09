@@ -384,14 +384,14 @@ header {
   padding-bottom: 50px;
 }
 .main-cards {
-   display: flex;
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 .main-cards-item {
   margin: 0 0 30px 0;
 }
-.main-cards-item:nth-child(n + 7){
+.main-cards-item:nth-child(n + 7) {
   margin: 0;
 }
 .card {
